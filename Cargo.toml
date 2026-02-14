@@ -61,7 +61,7 @@ name = "rs_receiver"
 required-features = ["std"]
 
 [dependencies.ipnetwork]
-version = "0.20.0"
+version = "0.21.1"
 optional = true
 
 [dependencies.pnet_base]
